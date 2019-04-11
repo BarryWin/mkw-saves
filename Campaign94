@@ -1,0 +1,10 @@
+<local_saved_data>
+	<v name="Month" type="float">6.000000</v>
+	<v name="Initialized" type="bool">0</v>
+	<v name="Year" type="float">1336.000000</v>
+	<v name="CampaignDifficulty" type="float">2.000000</v>
+	<v name="Nation" type="string">France</v>
+	<v name="TechItems" type="string">{[I1|0]|[I8|0]|[I2|0]|[I9|0]|[I10|0]|[I3|0]|[I4|0]|[I5|0]|[I6|0]|[I7|28]|[I11|13]|[I12|8]}</v>
+	<v name="Faction" type="string">France5</v>
+	<v name="BattleDifficulty" type="float">2.000000</v>
+</local_saved_data>

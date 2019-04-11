@@ -1,0 +1,11 @@
+<local_saved_data>
+	<v name="Month" type="float">6.000000</v>
+	<v name="Initialized" type="bool">0</v>
+	<v name="noneBuildings" type="string">{[BConvert9|2StoneCamp]|[BConvert10|2IronCamp]|[BConvert11|1IronCamp]|[BConvert7|2Barn]}</v>
+	<v name="Year" type="float">1336.000000</v>
+	<v name="BattleDifficulty" type="float">2.000000</v>
+	<v name="TechUnlocks" type="string">{[T1030|true]|[T1094|true]|[T1035|true]|[T1154|true]|[T1150|true]|[T1071|true]|[T1091|true]|[T1156|true]|[T1152|true]|[T1094|true]}</v>
+	<v name="CampaignDifficulty" type="float">2.000000</v>
+	<v name="Nation" type="string">France</v>
+	<v name="Faction" type="string">France5</v>
+</local_saved_data>

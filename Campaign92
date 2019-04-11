@@ -1,0 +1,10 @@
+<local_saved_data>
+	<v name="Month" type="float">6.000000</v>
+	<v name="Initialized" type="bool">0</v>
+	<v name="Year" type="float">1336.000000</v>
+	<v name="BattleDifficulty" type="float">2.000000</v>
+	<v name="TechUnlocks" type="string">{[T1094|true]|[T1035|true]|[T1154|true]|[T1150|true]|[T1071|true]|[T1159|true]}</v>
+	<v name="CampaignDifficulty" type="float">2.000000</v>
+	<v name="Nation" type="string">France</v>
+	<v name="Faction" type="string">France5</v>
+</local_saved_data>

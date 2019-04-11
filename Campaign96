@@ -1,0 +1,13 @@
+<local_saved_data>
+	<v name="Month" type="float">6.000000</v>
+	<v name="Initialized" type="bool">0</v>
+	<v name="Year" type="float">1336.000000</v>
+	<v name="BattleDifficulty" type="float">2.000000</v>
+	<v name="Currency" type="float">1360.000000</v>
+	<v name="TechUnlocks" type="string">{[T1030|true]|[T1094|true]|[T1035|true]|[T1154|true]|[T1150|true]|[T1071|true]|[T1091|true]|[T1156|true]|[T1152|true]}</v>
+	<v name="CampaignDifficulty" type="float">2.000000</v>
+	<v name="Nation" type="string">France</v>
+	<v name="Faction" type="string">France5</v>
+	<v name="noneBuildings" type="string">{[Text509|1StoneCamp]|[Text511|1SiegeWorkshop]|[Text510|1IronCamp]|[Text506|1Storehouse]|[Text507|1ArcheryRange]|[Text508|1Barracks]}</v>
+	<v name="TechItems" type="string">{[I1|0]|[I8|0]|[I2|3]|[I9|24]|[I10|10]|[I3|0]|[I4|12]|[I5|0]|[I6|0]|[I7|0]|[I11|0]|[I12|0]}</v>
+</local_saved_data>
