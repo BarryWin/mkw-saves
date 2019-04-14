@@ -1,48 +1,48 @@
 <local_saved_data>
-	<v name="WindowMode" type="bool">0</v>
+	<v name="MaxEffectPlay" type="float">6.000000</v>
 	<v name="HDRBlurDelta" type="float">2.000000</v>
 	<v name="LocalReflections" type="bool">1</v>
-	<v name="MaxEffectPlay" type="float">6.000000</v>
+	<v name="WindowMode" type="bool">0</v>
 	<v name="currentCapture3" type="bool">0</v>
 	<v name="WaterBelowScale" type="float">0.800000</v>
 	<v name="ShowAllianceInvites" type="bool">1</v>
 	<v name="ScreenResolutionX" type="float">1680.000000</v>
-	<v name="ScreenResolutionY" type="float">1050.000000</v>
 	<v name="currentCapture2" type="bool">0</v>
-	<v name="NormalMapUnits" type="bool">0</v>
-	<v name="ToneMaping" type="bool">1</v>
+	<v name="ScreenResolutionY" type="float">1050.000000</v>
 	<v name="ShowChatTimestamps" type="bool">0</v>
+	<v name="ToneMaping" type="bool">1</v>
+	<v name="NormalMapUnits" type="bool">0</v>
 	<v name="Bloom" type="bool">1</v>
 	<v name="PointLights" type="bool">1</v>
+	<v name="MusicVolume" type="float">0.200000</v>
 	<v name="VSync" type="bool">0</v>
-	<v name="MusicVolume" type="float">0.100000</v>
-	<v name="localization_testing" type="bool">0</v>
 	<v name="AutoSave" type="float">5.000000</v>
+	<v name="localization_testing" type="bool">0</v>
 	<v name="pvp_testing" type="bool">0</v>
-	<v name="Cheats" type="bool">0</v>
 	<v name="BloomModifier" type="bool">1</v>
-	<v name="ChatFilter" type="bool">1</v>
+	<v name="Cheats" type="bool">0</v>
 	<v name="lang" type="string">lang_en</v>
-	<v name="CenterUnitPortrait" type="bool">0</v>
+	<v name="ChatFilter" type="bool">1</v>
 	<v name="RotateMiniMap" type="bool">0</v>
+	<v name="CenterUnitPortrait" type="bool">0</v>
 	<v name="AutoScrollChat" type="bool">1</v>
-	<v name="ShowFirstSelectedUnit" type="bool">1</v>
 	<v name="WaterReflectScale" type="float">0.800000</v>
+	<v name="ShowFirstSelectedUnit" type="bool">1</v>
 	<v name="HideChatZoneChange" type="bool">0</v>
 	<v name="Fog" type="bool">1</v>
 	<v name="FirstRunSet" type="bool">1</v>
-	<v name="CameraSettings" type="float">1.000000</v>
 	<v name="chatfontsize" type="float">3.000000</v>
+	<v name="CameraSettings" type="float">1.000000</v>
 	<v name="DrawDistance" type="float">4.000000</v>
 	<v name="Gore" type="bool">1</v>
-	<v name="TerrainOption" type="bool">0</v>
 	<v name="Weather" type="bool">1</v>
+	<v name="TerrainOption" type="bool">0</v>
 	<v name="ShadowMapSize" type="float">4096.000000</v>
-	<v name="SfxVolume" type="float">0.500000</v>
 	<v name="AZERTY" type="bool">0</v>
-	<v name="saveContinued" type="bool">0</v>
-	<v name="currentSave" type="bool">0</v>
+	<v name="SfxVolume" type="float">0.700000</v>
 	<v name="ModelQuality" type="float">4.000000</v>
+	<v name="currentSave" type="bool">0</v>
+	<v name="saveContinued" type="bool">0</v>
 	<v name="GameStarted" type="bool">1</v>
 	<v name="currentCapture1" type="bool">0</v>
 	<v name="currentCapture4" type="bool">0</v>
